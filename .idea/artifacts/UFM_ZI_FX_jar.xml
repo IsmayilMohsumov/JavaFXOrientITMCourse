@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="UFM_ZI_FX:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/UFM_ZI_FX_jar</output-path>
-    <root id="archive" name="UFM_ZI_FX.jar">
-      <element id="module-output" name="UFM_ZI_FX" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/src/az/com/course/lib/OJDBC8-Full/ojdbc8.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
