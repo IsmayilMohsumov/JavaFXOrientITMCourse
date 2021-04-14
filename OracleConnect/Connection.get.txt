@@ -1,0 +1,1 @@
+  return DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","ismayil","12345");
